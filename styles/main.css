@@ -6,3 +6,24 @@ body {
     padding: 0;
     text-align: center;
 }
+/* Navegación */
+nav {
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Botones del menú */
+.boton {
+    display: inline-block;
+    background-color: #0077cc;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.boton:hover {
+    background-color: #005fa3;
+}
