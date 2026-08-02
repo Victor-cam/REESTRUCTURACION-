@@ -56,3 +56,11 @@ nav {
     background-color: #014f86;
     color: white;
 }
+.botonEnviar {
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
