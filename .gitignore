@@ -11,6 +11,12 @@
 *.sln.docstates
 *.env
 
+# archivos de registro 
+*.log   
+
+#archivos comprimidos 
+*.zip
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
