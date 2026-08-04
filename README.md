@@ -1,20 +1,16 @@
-# REESTRUCTURACION-
-SE HARA UNA REESTRUCTURACION DE UN REPOSITORIO CON MULTIPLES PROBLEMAS ENTRE ELLOS ESTABA LA JERARQUIA DE CARPETAS Y PODERLO DEJAR EN FUNCIONAMIENTO SUBIDO EN GITHUB PAGE SIN TENER ERROR DE 404. DADO POR COMPLETADO LO ANTERIORIOR DICHO, SE USARON BUENAS PRACTICAS CON EL USO DE RAMAS PARA HACER LOS CAMBIO QUE SE VAN NECESITANDO. 
+# 📚 TechGlobal
 
-Objetivos actuales del sprint: 
+## Descripción del proyecto
 
-Ampliar y organizar la sección de blog
-Implementar el calendario de eventos
-Mejorar la sección de contacto
-Adoptar buenas prácticas de versionamiento en equipo
+Este proyecto corresponde a la reestructuración y actualización del sitio web de *TechGlobal, desarrollada como parte de la actividad académica *"Código perdido – Parte II: El cierre ágil y la entrega final"**.
 
-# Página TechGlobal
+Durante el desarrollo se aplicaron metodologías ágiles (Scrum), el flujo de trabajo *GitHub Flow, la convención **Conventional Commits* y el despliegue mediante *GitHub Pages*, con el propósito de mejorar la organización del proyecto, facilitar el trabajo colaborativo y garantizar una correcta administración del código fuente.
 
-Sitio web estático desarrollado como parte de la actividad de despliegue web utilizando Git, GitHub Flow y GitHub Pages.
+---
 
-## Descripción
+# 🎯 Objetivo
 
-TechGlobal es una página web informativa sobre tecnología e innovación digital. El proyecto fue desarrollado utilizando HTML5 y está organizado siguiendo buenas prácticas de estructura de carpetas para facilitar su mantenimiento, despliegue y trabajo colaborativo.
+Reestructurar el sitio web existente, integrando nuevas funcionalidades y aplicando buenas prácticas de desarrollo colaborativo mediante herramientas de control de versiones y metodologías ágiles.
 
 ## Tecnologías utilizadas
 
@@ -76,17 +72,21 @@ text
 https://victor-cam.github.io/REESTRUCTURACION-/
 
 
-## Flujo de trabajo GitHub Flow
+# 🌿 Flujo de trabajo (GitHub Flow)
 
-Durante el desarrollo se utilizaron ramas independientes para cada funcionalidad:
+Durante el desarrollo del proyecto se aplicó GitHub Flow para organizar el trabajo colaborativo.
 
-- feature/estructura-carpetas
-- feature/pagina-contacto
-- feature/pagina-nosotros
-- feature/estilos
-- fix/rutas-relativas
+El proceso utilizado fue el siguiente:
 
-Los cambios fueron integrados mediante Pull Requests y revisados antes de fusionarse con la rama principal.
+1. Crear una nueva rama para cada funcionalidad del Product Backlog.
+2. Desarrollar los cambios de manera independiente.
+3. Realizar commits siguiendo la especificación Conventional Commits.
+4. Publicar la rama en GitHub.
+5. Crear un Pull Request.
+6. Realizar Code Review antes de aprobar la integración.
+7. Fusionar la rama con *main*.
+8. Verificar el correcto funcionamiento del sitio en GitHub Pages.
+
 
 ## convenciones de commits 
 
@@ -102,8 +102,44 @@ docs: Cambios solo en documentación (README, comentarios, etc.)
 style: Cambios de formato, espacios, indentación (sin afectar la lógica)
 refactor: Reorganización de código sin agregar funciones ni corregir errores
 
-## 👥 Equipo de trabajo
+# 👥 Guía para nuevos integrantes
 
-- [Victor Integrnte 1]
-- [Yeimy Integrante 2]
-- [JHOJAN DE JESUS PALMERA HERNANDEZ 3]
+Si un nuevo integrante se incorpora al proyecto deberá seguir el siguiente proceso:
+
+1. Clonar el repositorio.
+2. Crear una rama desde *main* para desarrollar la funcionalidad asignada.
+3. Mantener la estructura de carpetas establecida.
+4. Realizar commits utilizando Conventional Commits.
+5. Publicar la rama en GitHub.
+6. Crear un Pull Request.
+7. Esperar la revisión del código antes de fusionar los cambios.
+8. Actualizar la documentación cuando sea necesario.
+
+# 📋 Funcionalidades implementadas
+
+- Página principal.
+- Reestructuración del sitio web.
+- Organización de carpetas y archivos.
+- Navegación mediante rutas relativas.
+- Control de versiones con Git y GitHub.
+- Flujo de trabajo con GitHub Flow.
+- Documentación mediante README.
+- Despliegue del sitio en GitHub Pages.
+
+| Integrante | Rol |
+|------------|-----|
+| Víctor | Developer /
+| Yeimi | Scrum Master / 
+| Jhojan Palmera | Developer (UX/UI y Documentación) /
+
+---
+
+# 📌 Estado del proyecto
+
+🟢 Proyecto finalizado y desplegado correctamente en GitHub Pages como parte de la actividad académica.
+
+---
+
+# 📄 Licencia
+
+Proyecto desarrollado únicamente con fines académicos.
