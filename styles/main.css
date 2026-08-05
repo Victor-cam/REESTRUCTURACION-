@@ -197,3 +197,19 @@ footer{
     padding:18px;
     margin-top:50px;
 }
+section{
+    width:90%;
+    max-width:900px;
+    margin:50px auto;
+    text-align:center;
+}
+
+section h3{
+    color:#0d6efd;
+    margin-top:35px;
+    margin-bottom:10px;
+}
+
+section p{
+    margin-bottom:25px;
+}
